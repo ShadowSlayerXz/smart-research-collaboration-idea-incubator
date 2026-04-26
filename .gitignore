@@ -1,0 +1,29 @@
+# AI / Claude tools — keep off GitHub
+.tools/
+
+# Temp docx extraction artifacts
+_docx_extract/
+_docx_extract.zip
+.~lock.*
+
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+backend/.env
+
+# Build output
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Vite
+*.local
