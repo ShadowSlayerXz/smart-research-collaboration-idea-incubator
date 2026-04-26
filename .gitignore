@@ -27,3 +27,7 @@ Thumbs.db
 
 # Vite
 *.local
+
+# Documentation source files
+*.docx
+*.pdf
